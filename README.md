@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyam-2006
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning Web Development and would learn App developing soon
+- 🌱 I’m currently learning front end  Web Development and passionate about Full Stack App Development.
 - 📫 You can reach me by my email: M.Priyamjit@outlook.com
 - 😄 Pronouns: He/Him
 
